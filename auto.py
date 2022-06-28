@@ -1,6 +1,6 @@
 
-email='saisivakumar.2000@gmail.com'
-password='David@joy1289'
+email=''
+password=''
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
